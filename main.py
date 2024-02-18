@@ -12,7 +12,7 @@ debt2 = float (input ("How much you need to pay for the utilies? $"))
 print ("Remainig money after paying your debts: ", salary - (debt+debt2)) """
 
 
-#Напишіть програму, що обчислює площу ромба. Користувач вводить із клавіатури довжину двох його діагоналей.
+""" #Напишіть програму, що обчислює площу ромба. Користувач вводить із клавіатури довжину двох його діагоналей.
 diagonal1 = float (input("Enter the length of the first diagonal: "))
 diagonal2 = float (input("Enter the length of the second diagonal: "))
-print  ("The area of the rhombus is: ", (diagonal1 * diagonal2)/2)
+print  ("The area of the rhombus is: ", (diagonal1 * diagonal2)/2) """
